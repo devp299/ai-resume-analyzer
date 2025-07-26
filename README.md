@@ -1,22 +1,33 @@
-# Welcome to React Router!
+# CVSmart – AI Resume Analyzer & Application Tracker
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Empower your job search with intelligent, real-time resume feedback.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+---
 
-## Features
+CVSmart is an **AI-powered web app** for uploading, analyzing, and tracking resumes—helping you optimize your job applications with instant, actionable feedback. Built using React, TypeScript, Tailwind CSS, and React Router for a seamless user and developer experience.
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+---
 
-## Getting Started
+## 🚀 Features
 
-### Installation
+- **AI Resume Analysis:** Upload your resume and get smart feedback in seconds.
+- **Application Tracker:** Organize & monitor all your job applications in one dashboard.
+- **Instant Feedback:** Receive actionable, AI-powered insights to improve your resume.
+- **Modern UI:** Responsive, accessible, and beautiful design powered by Tailwind CSS.
+- **TypeScript & Hot Reload:** Type-safe, fast development with Vite and HMR.
+- **Production Ready:** SSR, Docker-ready, and fully optimized for deployment.
+
+---
+
+## 📺 Demo
+
+[Watch the project demo on YouTube](https://www.youtube.com/watch?v=ARJ17VOyLfc)
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Installation
 
 Install the dependencies:
 
