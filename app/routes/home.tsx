@@ -32,7 +32,7 @@ export default function Home() {
           JSON.parse(resume.value) as Resume
         ))
 
-        console.log("parsedResumes: ", parsedResumes);
+        // console.log("parsedResumes: ", parsedResumes);
         setResumes(parsedResumes || []);
         setLoadingResumes(false);
       }
@@ -72,8 +72,6 @@ export default function Home() {
       )}
 
     </section>
-
-    
 
   </main>
 }
