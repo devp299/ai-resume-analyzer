@@ -1,4 +1,9 @@
 # CVSmart – AI Resume Analyzer & Application Tracker
+## 📺 Demo
+
+[Watch the project demo on YouTube](https://www.youtube.com/watch?v=ARJ17VOyLfc)
+
+---
 
 Empower your job search with intelligent, real-time resume feedback.
 
@@ -16,12 +21,6 @@ CVSmart is an **AI-powered web app** for uploading, analyzing, and tracking resu
 - **Modern UI:** Responsive, accessible, and beautiful design powered by Tailwind CSS.
 - **TypeScript & Hot Reload:** Type-safe, fast development with Vite and HMR.
 - **Production Ready:** SSR, Docker-ready, and fully optimized for deployment.
-
----
-
-## 📺 Demo
-
-[Watch the project demo on YouTube](https://www.youtube.com/watch?v=ARJ17VOyLfc)
 
 ---
 
